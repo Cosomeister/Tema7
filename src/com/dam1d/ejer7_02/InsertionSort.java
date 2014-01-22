@@ -9,7 +9,7 @@ public class InsertionSort {
 		
 		int[] vector = new int[POS];
 		int[] ordenado = new int[POS];
-		muestravector(ordenado);
+		//muestravector(ordenado);
 		llenavector(vector, RAN);
 		muestravector(vector);
 		ordenavector(vector, ordenado);
