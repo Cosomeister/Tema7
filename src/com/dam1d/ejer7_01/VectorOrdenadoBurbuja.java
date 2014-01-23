@@ -6,7 +6,7 @@ package com.dam1d.ejer7_01;
 //Después ordena las componentes de dicho vector mediante el método de la burbuja.
 //Dicho método ha sido modificado con el flag lógico "cambio" para optimizarlo
 
-public class VectorAleatorioOrdenado {
+public class VectorOrdenadoBurbuja {
 
 	public static void main(String[] args) {
 		// Carga el vector
