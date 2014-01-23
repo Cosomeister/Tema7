@@ -3,7 +3,7 @@ package com.dam1d.ejer7_02;
 public class InsertionSort {
 	private static int POS = 50;
 	private static int RAN = 100;
-	static boolean flag;
+	private static boolean flag;
 	
 	public static void main(String[] args) {
 		
